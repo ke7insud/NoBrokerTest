@@ -1,0 +1,6 @@
+framework module Pods_NoBrokerBrowseAndFilter {
+  umbrella header "Pods-NoBrokerBrowseAndFilter-umbrella.h"
+
+  export *
+  module * { export * }
+}
